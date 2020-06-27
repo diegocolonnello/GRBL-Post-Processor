@@ -665,11 +665,11 @@ function onSection()
 		{
 		if (tool.coolant)
 			{
-			writeBlock(mFormat.format(8));
+			writeBlock(mFormat.format(9));
 			}
 		else
 			{
-			writeBlock(mFormat.format(9));
+			writeBlock(mFormat.format(8));
 			}
 		}
 
